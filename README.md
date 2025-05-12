@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @etrigan976
-- 👀 I’m interested in Computer Science, and Data Structures along with Software Methodologies
-- 🌱 I’m currently learning C++, Java and Python
+- 👋 Hi, I’m @RhinoMat
+- 👀 I’m interested in Computer Science, and Primarily am working on Fractals and Graphics Development
+- 🌱 I’m currently learning C for making Fractal bitmap designs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-etrigan976/etrigan976 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RhinoMat/RhinoMat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
