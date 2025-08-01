@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RhinoMat
-- 👀 I’m interested in Computer Science, and Primarily am working on Fractals and Graphics Development
-- 🌱 I’m currently learning C for making Fractal bitmap designs
+- 👀 I’m a student studying Computer Science, and Primarily am learning a variety of sectors like Graphics Development with Blender, Game Development with Godot, and Networking through Cisco NetAcad
+- 🌱 I’m currently learning Blender Properties, Godot, Python and WebGL
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (My Website: rhinomat.github.io)
 
 <!---
 RhinoMat/RhinoMat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
