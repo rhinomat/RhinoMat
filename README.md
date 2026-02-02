@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RhinoMat
-- 👀 I’m a student studying Computer Science, and Primarily am learning a variety of sectors like Graphics Development with Blender, Game Development with Godot, and Networking through Cisco NetAcad
-- 🌱 I’m currently learning Blender Properties, Godot, Python and WebGL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a student studying Computer Science, and Primarily am learning a variety of sectors like Graphics Development with Blender, and Game Development with Godot
+- 🌱 I’m currently learning Blender Properties, Godot, and making games with Raylib using C
 - 📫 How to reach me (My Website: rhinomat.github.io)
 
 <!---
